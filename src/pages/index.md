@@ -2,8 +2,12 @@
 templateKey: index-page
 title: Great Golf Lessons, From your home
 image: /img/golf-at-home.jpg
-heading: Enjoy learning golf from your own home
-subheading: Enjoy learning golf from your own home
+heading: Enjoy learning golf from your own homeEnjoy learning golf from your own
+  homeEnjoy learning golf from your own homeEnjoy learning golf from your own
+  home
+subheading: Enjoy learning golf from your own homeEnjoy learning golf from your
+  own homeEnjoy learning golf from your own homeEnjoy learning golf from your
+  own home
 mainpitch:
   title: Why Choose Golf At Home
   description: >
