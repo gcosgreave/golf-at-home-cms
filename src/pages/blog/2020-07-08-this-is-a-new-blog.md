@@ -7,5 +7,6 @@ featuredpost: true
 featuredimage: /img/movie-kylo-ren-wallpaper-star-wars-7.jpg
 tags:
   - test
+  - jesus
 ---
 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempore ipsum tenetur at maxime laudantium doloremque, sapiente vero nisi sit fuga dolorem! Labore, quibusdam! Quisquam facilis accusantium quos, perferendis enim vitae.
