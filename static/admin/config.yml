@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: gcosgreave/golf-at-home-cms
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
