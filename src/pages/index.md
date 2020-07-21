@@ -1,20 +1,31 @@
 ---
 templateKey: index-page
-title: Great Golf Lessons, From your home
+title: GOLF-at-HOME
 image: /img/golf-at-home.jpg
-heading: Enjoy learning golf from your own homeEnjoy learning golf from your own
-  homeEnjoy learning golf from your own homeEnjoy learning golf from your own
-  home
-subheading: Enjoy learning golf from your own homeEnjoy learning golf from your
-  own homeEnjoy learning golf from your own homeEnjoy learning golf from your
-  own home
+heading: “Our profession is teaching, our passion is in the results"
+subheading: "The Complete Mobile Golf Tuition Service "
 mainpitch:
-  title: Why Choose Golf At Home
+  title: Looking for golf lessons or want to learn to play in the comfort of your
+    own home?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    How many of you have actually visited your local instructor, understood
+    exactly what they were teaching, applied that to your game and got real
+    results, or would feel intimidated/exposed on a golf Driving Range?
+
+
+    Quite often the driving range can be a daunting experience for many, which is one of the reasons why we provide this unique completely private service, tailored individually for your needs. 
+
+
+    Home tuition produces greater results. Results that are achieved through teaching into nets in the comfort of your own surroundings. This allows us to focus solely on your swing, creating a golf swing adapted to your ability, and in turn you’ll strike straighter balls, feeling relaxed and confident for that all important first shot off tee. 
+
+
+    Our passion, just like yours is golf and we cater for all ages and abilities. Our affordable service also means that you and a partner, friend or family member also needing a lesson can share it within our one hour lesson at no extra cost.
+
+
+    Don’t forget it’s private so no one else needs to know!
+
+
+    All lessons can be booked via our Mobile App, just look for Golf at Home on the App Store and download for free. You’ll also find some amazing information on the App and some ‘coming soon’ features as well.
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
