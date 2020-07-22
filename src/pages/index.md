@@ -16,10 +16,9 @@ mainpitch:
 
 
     Our passion, just like yours is golf and we cater for all ages and abilities. Our affordable service also means that you and a partner, friend or family member also needing a lesson can share it within our one hour lesson at no extra cost.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: Golf-at-Home is a unique service that can not only improve your
+  golf game, but also provide made to measure golf clubs, or adjust your
+  existing golf clubs to ensure you have everything you need to improve.
 intro:
   blurbs:
     - image: /img/coffee.png
