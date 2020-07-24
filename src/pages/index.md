@@ -25,13 +25,11 @@ description: Golf-at-Home is a unique service that can not only improve your
   gold course.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/golf-3469394.jpg
+      text: We offer one-to-one golf tuition service for you in the comfort of your
+        own home. Our affordable service also means that you and a partner,
+        friend or family member also needing a lesson can share it within our
+        one hour lesson at no extra cost.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
