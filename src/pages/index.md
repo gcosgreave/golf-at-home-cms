@@ -30,10 +30,10 @@ intro:
         own home. Our affordable service also means that you and a partner,
         friend or family member also needing a lesson can share it within our
         one hour lesson at no extra cost.
-    - image: /img/tutorials.png
+    - image: /img/golf-1909115.jpg
       text: We can alter your current clubs to improve your game or offer you a custom
         made service to ensure you are at the top of your game.
-    - image: /img/meeting-space.png
+    - image: /img/golf-83878.jpg
       text: We love seeing our customers improve and remember why they love being on
         the golf course.
     - text: We believe that our personal, bespoke service will give you the confidence
