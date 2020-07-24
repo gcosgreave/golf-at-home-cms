@@ -31,19 +31,14 @@ intro:
         friend or family member also needing a lesson can share it within our
         one hour lesson at no extra cost.
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: We can alter your current clubs to improve your game or offer you a custom
+        made service to ensure you are at the top of your game.
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: We love seeing our customers improve and remember why they love being on
+        the golf course.
+    - text: We believe that our personal, bespoke service will give you the confidence
+        and ability to be the best golfer that you can be.
+      image: /img/golf-1486354.jpg
   heading: What we offer
   description: We offer one-to-one golf tuition service for you in the comfort of
     your own home. Our affordable service also means that you and a partner,
