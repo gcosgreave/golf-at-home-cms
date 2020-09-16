@@ -128,7 +128,7 @@ RepairPageTemplate.propTypes = {
   }),
 }
 
-const ProductPage = ({ data }) => {
+const RepairPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
   return (
@@ -148,7 +148,7 @@ const ProductPage = ({ data }) => {
   )
 }
 
-ProductPage.propTypes = {
+RepairPage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
       frontmatter: PropTypes.object,
@@ -156,10 +156,10 @@ ProductPage.propTypes = {
   }),
 }
 
-export default ProductPage
+export default RepairPage
 
-export const productPageQuery = graphql`
-  query ProductPage($id: String!) {
+export const RepairPageQuery = graphql`
+  query RepairPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
