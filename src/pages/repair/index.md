@@ -1,5 +1,5 @@
 ---
-templateKey: 'product-page'
+templateKey: 'repair-page'
 path: /repair
 title: Club Repairs
 image: /img/jumbotron.jpg
