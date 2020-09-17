@@ -3,7 +3,7 @@ heading: Got a broken club?
 path: /repair
 templateKey: repair-page
 title: Club Repairs
-image: /img/jumbotron.jpg
+image: /img/cristina-anne-costello-qzkfrl-hbuw-unsplash.jpg
 description: "Don't be like the thousands of other people by throwing away your
   club, instead get it repaired at a fraction of the cost of a new one. "
 intro:
