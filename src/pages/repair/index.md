@@ -1,11 +1,11 @@
 ---
-templateKey: 'repair-page'
+heading: Got a broken club?
 path: /repair
+templateKey: repair-page
 title: Club Repairs
 image: /img/jumbotron.jpg
-heading: Got a broken club?
-description: >-
-  Don't be like the thousands of other people by throwing away your club, instead get it repaired at a fraction of the cost of a new one. 
+description: "Don't be like the thousands of other people by throwing away your
+  club, instead get it repaired at a fraction of the cost of a new one. "
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -15,12 +15,14 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
+      heading: Regripping
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
+      heading: Reshafting
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -28,6 +30,7 @@ intro:
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
+      heading: Loft and Lie Check / Adjustments
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
@@ -35,7 +38,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-      heading: >
+      heading: |
         test
   heading: What we offer
   description: >
@@ -61,20 +64,17 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+    quote: Kaldi is the place to go if you want the best quality coffee. I love
+      their stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  description: We make it easy to make great coffee a part of your life. Choose
+    one of our monthly subscription plans to receive great coffee at your
+    doorstep each month. Contact us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -82,19 +82,19 @@ pricing:
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+      price: "50"
+    - description: Great for avid drinkers, java-loving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: '80'
+      price: "80"
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '??'
+      price: ??
 ---
