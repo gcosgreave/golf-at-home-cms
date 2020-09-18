@@ -3,7 +3,7 @@ heading: Got a broken club?
 path: /repair
 templateKey: repair-page
 title: Club Repairs
-image: /img/cristina-anne-costello-qzkfrl-hbuw-unsplash.jpg
+image: /img/clubs-and-balls.jpg
 description: "Don't be like the thousands of other people by throwing away your
   club, instead get it repaired at a fraction of the cost of a new one. "
 intro:
@@ -17,7 +17,6 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-      heading: Regripping
     - image: /img/coffee-gear.png
       heading: >
         Reshafting
@@ -26,7 +25,6 @@ intro:
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
-      heading: Reshafting
     - image: /img/tutorials.png
       heading: >
         Loft and Lie Check / Adjustments
@@ -36,7 +34,6 @@ intro:
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-      heading: Loft and Lie Check / Adjustments
     - image: /img/meeting-space.png
       heading: >
         test
