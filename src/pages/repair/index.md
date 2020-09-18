@@ -8,7 +8,7 @@ description: "Don't be like the thousands of other people by throwing away your
   club, instead get it repaired at a fraction of the cost of a new one. "
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/grips.jpg
       heading: >
         Regripping
       text: >
