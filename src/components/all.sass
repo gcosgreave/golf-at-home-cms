@@ -2,16 +2,18 @@
 
 // Config vars
 // Golf at home logo brand color: #32CD32
-$kaldi-red: #32CD32
-$kaldi-red-invert: #fff
+$golf-green: #165b13
+$golf-green-invert: #fff
 
-$primary: $kaldi-red
-$primary-invert: $kaldi-red-invert
+$primary: $golf-green
+$primary-invert: $golf-green-invert
 $body-color: #333
 $black: #2b2523
 
 .navbar .navbar-menu
   box-shadow:none !important
+  a:hover 
+    color: #165b13
 
 .content .taglist
   list-style: none
@@ -61,10 +63,10 @@ $black: #2b2523
     border-radius: .25rem
     text-decoration: none
     font-weight: 700
-    color: #CC3700
+    color: #165b13
     text-align: center
-    -webkit-box-shadow: inset 0 0 0 2px #CC3700
-    box-shadow: inset 0 0 0 2px #f40
+    -webkit-box-shadow: inset 0 0 0 2px #165b13
+    box-shadow: inset 0 0 0 2px #165b13
     -webkit-transition: all .15s ease
     transition: all .15s ease
 
@@ -88,9 +90,9 @@ footer.footer
 $menu-item-color: $white-ter
 $menu-item-hover-color: $black !important
 $menu-item-hover-background-color: $black
-$menu-item-active-color: $kaldi-red-invert
-$menu-item-active-background-color:	$kaldi-red-invert
-$menu-list-border-left: 1px solid $kaldi-red-invert
+$menu-item-active-color: $golf-green-invert
+$menu-item-active-background-color:	$golf-green-invert
+$menu-list-border-left: 1px solid $golf-green-invert
 $menu-label-color: $white-ter
 
 
@@ -100,6 +102,11 @@ $menu-label-color: $white-ter
 .menu-list
   list-style: none !important
   text-align: left
+.menu-list a
+  color: #fff
+.menu-list a:hover 
+  background-color: transparent
+  color: #165b13
 .social
   padding: 2em
 .social a
@@ -135,3 +142,9 @@ $menu-label-color: $white-ter
     text-align: center;
     max-width: 70%;
     margin: 0 0 1em;
+
+
+.title 
+  background: #165b13
+  padding: 20px
+  color: #fff !important

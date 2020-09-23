@@ -25,7 +25,7 @@ export default function PrivacyPolicy() {
                   collection and use of information in accordance with this
                   policy.
                 </p>
-                <h3 className="title is-size-4 has-text-weight-bold is-bold-light">
+                <h3 className="is-size-4 has-text-weight-bold is-bold-light">
                   Information Collection And Use
                 </h3>
                 <p>
@@ -35,7 +35,7 @@ export default function PrivacyPolicy() {
                   information may include, but is not limited to your name
                   ("Personal Information")
                 </p>
-                <h3 className="title is-size-4 has-text-weight-bold is-bold-light">
+                <h3 className="is-size-4 has-text-weight-bold is-bold-light">
                   Log Data
                 </h3>
                 <p>
@@ -48,7 +48,7 @@ export default function PrivacyPolicy() {
                   statistics. In addition, we may use third party services such
                   as Google Analytics that collect, monitor and analyze this …
                 </p>
-                <h3 className="title is-size-4 has-text-weight-bold is-bold-light">
+                <h3 className="is-size-4 has-text-weight-bold is-bold-light">
                   Communications
                 </h3>
                 <p>
@@ -56,7 +56,7 @@ export default function PrivacyPolicy() {
                   newsletters, marketing or promotional materials and other
                   information that ...
                 </p>
-                <h3 className="title is-size-4 has-text-weight-bold is-bold-light">
+                <h3 className="is-size-4 has-text-weight-bold is-bold-light">
                   Cookies
                 </h3>
                 <p>
@@ -71,7 +71,7 @@ export default function PrivacyPolicy() {
                   when a cookie is being sent. However, if you do not accept
                   cookies, you may not be able to use some portions of our Site.
                 </p>
-                <h3 className="title is-size-4 has-text-weight-bold is-bold-light">
+                <h3 className="is-size-4 has-text-weight-bold is-bold-light">
                   Security
                 </h3>
                 <p>
@@ -82,7 +82,7 @@ export default function PrivacyPolicy() {
                   Personal Information, we cannot guarantee its absolute
                   security.
                 </p>
-                <h3 className="title is-size-4 has-text-weight-bold is-bold-light">
+                <h3 className="is-size-4 has-text-weight-bold is-bold-light">
                   Changes To This Privacy Policy
                 </h3>
                 <p>
@@ -104,7 +104,7 @@ export default function PrivacyPolicy() {
                   will notify you either through the email address you have
                   provided us, or by placing a prominent notice on our website
                 </p>
-                <h3 className="title is-size-4 has-text-weight-bold is-bold-light">
+                <h3 className="is-size-4 has-text-weight-bold is-bold-light">
                   Contact Us
                 </h3>
                 <p>

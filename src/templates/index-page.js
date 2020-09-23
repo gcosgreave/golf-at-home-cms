@@ -20,7 +20,7 @@ export const IndexPageTemplate = ({
       className="full-width-image margin-top-0"
       style={{
         backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+          image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
         backgroundPosition: `center left`,
         backgroundAttachment: `fixed`,
@@ -39,8 +39,8 @@ export const IndexPageTemplate = ({
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-            boxShadow: '#32CD32 0.5rem 0px 0px, #32CD32 -0.5rem 0px 0px',
-            backgroundColor: '#32CD32',
+            boxShadow: '#165b13 0.5rem 0px 0px, #165b13 -0.5rem 0px 0px',
+            backgroundColor: '#165b13',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -51,8 +51,8 @@ export const IndexPageTemplate = ({
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
-            boxShadow: '#32CD32 0.5rem 0px 0px, #32CD32 -0.5rem 0px 0px',
-            backgroundColor: '#32CD32',
+            boxShadow: '#165b13 0.5rem 0px 0px, #165b13 -0.5rem 0px 0px',
+            backgroundColor: '#165b13',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -73,9 +73,8 @@ export const IndexPageTemplate = ({
                   <div className="tile">
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
+
+                  <p className="subtitle">{mainpitch.description}</p>
                 </div>
                 <div className="columns">
                   <div className="column is-12">
@@ -90,17 +89,6 @@ export const IndexPageTemplate = ({
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/products">
                       See all products
-                    </Link>
-                  </div>
-                </div>
-                <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
-                  </h3>
-                  <BlogRoll />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
-                      Read more
                     </Link>
                   </div>
                 </div>

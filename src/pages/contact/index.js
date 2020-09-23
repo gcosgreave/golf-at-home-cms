@@ -42,8 +42,8 @@ export default class Index extends React.Component {
               <h1
                 className="has-text-weight-bold is-size-1"
                 style={{
-                  boxShadow: '#32CD32 0.5rem 0px 0px, #32CD32 -0.5rem 0px 0px',
-                  backgroundColor: '#32CD32',
+                  boxShadow: '#165b13 0.5rem 0px 0px, #165b13 -0.5rem 0px 0px',
+                  backgroundColor: '#165b13',
                   color: 'white',
                   padding: '1rem',
                 }}

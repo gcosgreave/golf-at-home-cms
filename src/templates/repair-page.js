@@ -1,11 +1,10 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
-import Features from '../components/Features'
-import Testimonials from '../components/Testimonials'
-import Pricing from '../components/Pricing'
-import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import React from 'react';
+import PropTypes from 'prop-types';
+import { graphql } from 'gatsby';
+import Layout from '../components/Layout';
+import Features from '../components/Features';
+import Testimonials from '../components/Testimonials';
+import Pricing from '../components/Pricing';
 
 export const RepairPageTemplate = ({
   image,
@@ -13,7 +12,6 @@ export const RepairPageTemplate = ({
   heading,
   description,
   intro,
-  main,
   testimonials,
   fullImage,
   pricing,
@@ -23,15 +21,15 @@ export const RepairPageTemplate = ({
       className="full-width-image-container margin-top-0"
       style={{
         backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+          image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
       }}
     >
       <h2
         className="has-text-weight-bold is-size-1"
         style={{
-          boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-          backgroundColor: '#f40',
+          boxShadow: '0.5rem 0 0 #165b13, -0.5rem 0 0 #165b13',
+          backgroundColor: '#165b13',
           color: 'white',
           padding: '1rem',
         }}
@@ -73,7 +71,7 @@ export const RepairPageTemplate = ({
       </div>
     </section>
   </div>
-)
+);
 
 RepairPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -97,10 +95,10 @@ RepairPageTemplate.propTypes = {
     description: PropTypes.string,
     plans: PropTypes.array,
   }),
-}
+};
 
 const RepairPage = ({ data }) => {
-  const { frontmatter } = data.markdownRemark
+  const { frontmatter } = data.markdownRemark;
 
   return (
     <Layout>
@@ -116,8 +114,8 @@ const RepairPage = ({ data }) => {
         pricing={frontmatter.pricing}
       />
     </Layout>
-  )
-}
+  );
+};
 
 RepairPage.propTypes = {
   data: PropTypes.shape({
@@ -125,9 +123,9 @@ RepairPage.propTypes = {
       frontmatter: PropTypes.object,
     }),
   }),
-}
+};
 
-export default RepairPage
+export default RepairPage;
 
 export const RepairPageQuery = graphql`
   query RepairPage($id: String!) {
@@ -182,4 +180,4 @@ export const RepairPageQuery = graphql`
       }
     }
   }
-`
+`;

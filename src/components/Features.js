@@ -1,6 +1,6 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import React from 'react';
+import PropTypes from 'prop-types';
+import PreviewCompatibleImage from './PreviewCompatibleImage';
 
 const FeatureGrid = ({ gridItems }) => (
   <div className="columns is-multiline">
@@ -12,7 +12,7 @@ const FeatureGrid = ({ gridItems }) => (
             <div className="has-text-centered">
               <div
                 style={{
-                  width: '240px',
+                  width: '450px',
                   display: 'inline-block',
                 }}
               >
@@ -21,13 +21,12 @@ const FeatureGrid = ({ gridItems }) => (
             </div>
             <h4>{item.heading}</h4>
             <p>{item.text}</p>
-
           </section>
         </div>
-      )
+      );
     })}
   </div>
-)
+);
 
 FeatureGrid.propTypes = {
   gridItems: PropTypes.arrayOf(
@@ -36,6 +35,6 @@ FeatureGrid.propTypes = {
       text: PropTypes.string,
     })
   ),
-}
+};
 
-export default FeatureGrid
+export default FeatureGrid;
